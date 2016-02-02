@@ -1,0 +1,3 @@
+Hello, UI Team!
+
+This is your folder on the GitHub repository for your code. Each team gets a root folder for their code. Use this folder as the root for all of your code.
