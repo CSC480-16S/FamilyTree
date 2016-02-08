@@ -8,6 +8,7 @@ public class TestClass {
     public static void main(String[] args)
     {
         System.out.println("Hello, CSC 480!");
+        System.out.println("This is a test of Github features.");
     }
   
     public static void someMethod()
