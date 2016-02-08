@@ -1,0 +1,29 @@
+Hello, UI Team!
+
+This is your folder on the GitHub repository for your code.
+
+Each team gets a root folder for their code. Use this folder as the root for all of your code.
+
+Here are some links on how to get started with your project using VCS features in common IDEs:
+
+JetBrains IntelliJ IDEA:
+https://www.jetbrains.com/idea/help/discover-intellij-idea.html#VCSBasics
+(Git support is built in to the IDE, this is how to get started)
+
+Eclipse:
+https://eclipse.github.io
+(A plugin is available, this is the link to the plugin along with documentation to get started)
+
+NetBeans:
+https://github.com/benrbray/AdamBots-FIRST-2013-Robot-Code/wiki/How-To-Use-Git-&-Integrate-Git-With-NetBeans
+
+I recommend IntelliJ IDEA for any Java-related development.
+
+If you're using a different development environment, such as the command line on a UNIX machine, here's a link to get you started with cloning the repository on a CLI:
+
+https://help.github.com/articles/cloning-a-repository/
+
+Direct any questions to me via Slack, email, SMS, or come visit me in 442.
+
+Cheers 🍻
+--Jason
