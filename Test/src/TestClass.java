@@ -1,4 +1,5 @@
 public class TestClass {
+<<<<<<< HEAD
     
     public TestClass()
     {
@@ -15,4 +16,7 @@ public class TestClass {
     {
         // TODO: Put some stuff here
     }
+}
+=======
+
 }
