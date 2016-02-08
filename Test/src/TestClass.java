@@ -1,6 +1,5 @@
 public class TestClass {
-<<<<<<< HEAD
-    
+
     public TestClass()
     {
         // Empty constructor
@@ -17,6 +16,4 @@ public class TestClass {
         // TODO: Put some stuff here
     }
 }
-=======
 
-}
