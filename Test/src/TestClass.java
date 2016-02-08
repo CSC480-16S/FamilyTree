@@ -14,5 +14,7 @@ public class TestClass {
     public static void someMethod()
     {
         // TODO: Put some stuff here
+
+        System.out.println("Hi.");
     }
 }
