@@ -1,4 +1,8 @@
 public class TestClass {
+<<<<<<< HEAD
+
+}
+=======
     
     public TestClass()
     {
@@ -18,3 +22,4 @@ public class TestClass {
         System.out.println("Hi.");
     }
 }
+>>>>>>> QATest
